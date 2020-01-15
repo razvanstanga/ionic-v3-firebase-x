@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "razvanstanga"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@razvanstanga/ionic-v3-firebase-x",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0",
+    "@angular/core": "*",
+    "rxjs": "^5.5.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razvanstanga/ionic-v3-firebase-x.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.6"
+}
